@@ -1,0 +1,22 @@
+segment_sources:
+  ID356EC26:
+    type: origin_type
+    relation: translation
+    language: bo
+  I0EE56598:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  54f696fc29464463bea2c6742ab53a8c:
+    ID356EC26: e01f02dff10a48cb9b159b1842fc235a
+    I0EE56598: 6e561f7df9f0477e861c848fff43f1f1
+  708104c6814a4cb7a05dfb53efcc9b1d:
+    ID356EC26: 41d2ff9ca650422ca270129b12499503
+    I0EE56598: d63838f905484230a307e3a421a73aa5
+  92a05566cea340f79b1503e561421072:
+    ID356EC26: e7e08b53b7cd4bd5984a2dcb8db4c629
+    I0EE56598: c642de5002fd4f45ab5e293f9cce80bf
+  abe3ad1cbab544eb96a6e6a13b21fdbb:
+    ID356EC26: 48053db45ac3450d99b7b0516c4893dc
+    I0EE56598: 6b5b4b8c6a224b1d8934a9fc1ab81cab
